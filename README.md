@@ -18,7 +18,7 @@ export TELEGRAM_BOT_TOKEN="123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"
 
 ### 3. Run Bot
 ```bash
-cd /Users/dannboz/bozdrop-price-bot
+cd /path/to/bozdrop-price-bot
 python3 bot.py
 ```
 
